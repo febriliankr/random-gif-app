@@ -12,10 +12,6 @@ npm run dev
 yarn dev
 ```
 
-## API KEY to Giphy
-
-8AkYuhWTMuSHXmztpTkCad5rGOIippU6
-
-## Using .env.local
+## Using environment variables with next.config.js
 
 variabel env itu cuman ada di server, dia ngga akan di kirimkan ke browser. Kalau mau kirim ke browser harus dideklarasikan di next.config.js
