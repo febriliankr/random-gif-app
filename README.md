@@ -18,4 +18,4 @@ yarn dev
 
 ## Using .env.local
 
-it works
+variabel env itu cuman ada di server, dia ngga akan di kirimkan ke browser. Kalau mau kirim ke browser harus dideklarasikan di next.config.js
