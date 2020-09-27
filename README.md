@@ -11,3 +11,11 @@ npm run dev
 # or
 yarn dev
 ```
+
+## API KEY to Giphy
+
+8AkYuhWTMuSHXmztpTkCad5rGOIippU6
+
+## Using .env.local
+
+it works
